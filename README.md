@@ -1,3 +1,3 @@
 # Here are some useful tools that you may find useful
 
-This is a simple LangChain-based LLM chatbot that can interact with your PDF or text file. 
+This simple LangChain-based LLM chatbot can interact with your PDF or text file. Run this file on Google Colab, you also need API keys. 
